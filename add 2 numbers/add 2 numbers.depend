@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1708794568 source:c:\users\elitebook\desktop\codeblocks code\add 2 numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+
